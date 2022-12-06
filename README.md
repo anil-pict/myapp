@@ -31,8 +31,7 @@ $ ./mysql-user-db.sh testuser test@123
 <br/>
 
 # Modify ```.env``` file
-* Note : 
-  * The frontend runs on port 5000 by default. If you need to run on different port, add "PORT" parameter to .env file eg, "PORT = 80"
+* Note : The frontend runs on port 5000 by default. If you need to run on different port, add "PORT" parameter to .env file eg, "PORT = 80"
 
 ```
 DB_HOST = localhost
